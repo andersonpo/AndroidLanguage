@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exemplo de Idioma</string>
+    <string name="message">Está é uma mensagem de exemplo em Português Brasil</string>
+</resources>

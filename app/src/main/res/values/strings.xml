@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LanguageExample</string>
+    <string name="message">This is a example with message in english</string>
+</resources>
